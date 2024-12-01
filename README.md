@@ -48,6 +48,7 @@ DevOps is revolutionizing software development and IT operations. This Skill Tre
 - [Practice CSS Programming Courses](https://github.com/labex-labs/practice-css-programming-courses)
 - [Practice JavaScript Programming Courses](https://github.com/labex-labs/practice-javascript-programming-courses)
 - [Practice React Programming Courses](https://github.com/labex-labs/practice-react-programming-courses)
+- [Practice MongoDB Programming Courses](https://github.com/labex-labs/practice-mongodb-programming-courses)
 
 
 ## Other Lists
