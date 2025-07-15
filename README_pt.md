@@ -18,8 +18,7 @@ DevOps está revolucionando o desenvolvimento de software e as operações de TI
 |        4 | [Início Rápido com Docker](https://labex.io/pt/courses/quick-start-with-docker)         | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)     | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-docker)     |
 |        5 | [Início Rápido com Kubernetes](https://labex.io/pt/courses/quick-start-with-kubernetes) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-kubernetes) |
 |        6 | [Início Rápido com Python](https://labex.io/pt/courses/quick-start-with-python)         | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-python)     |
-|        7 | [Início Rápido com Jenkins](https://labex.io/pt/courses/quick-start-with-jenkins)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jenkins)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-jenkins)    |
-|        8 | [Início Rápido com Ansible](https://labex.io/pt/courses/quick-start-with-ansible)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-ansible)    |
+|        7 | [Início Rápido com Ansible](https://labex.io/pt/courses/quick-start-with-ansible)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-ansible)    |
 
 ## Mais
 
