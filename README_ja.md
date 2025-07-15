@@ -18,8 +18,7 @@ DevOps はソフトウェア開発と IT 運用を革新しています。この
 |              4 | [Docker のクイックスタート](https://labex.io/ja/courses/quick-start-with-docker)         | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)     | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-docker)     |
 |              5 | [Kubernetes のクイックスタート](https://labex.io/ja/courses/quick-start-with-kubernetes) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-kubernetes) |
 |              6 | [Python のクイックスタート](https://labex.io/ja/courses/quick-start-with-python)         | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-python)     |
-|              7 | [Jenkins のクイックスタート](https://labex.io/ja/courses/quick-start-with-jenkins)       | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jenkins)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-jenkins)    |
-|              8 | [Ansible のクイックスタート](https://labex.io/ja/courses/quick-start-with-ansible)       | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-ansible)    |
+|              7 | [Ansible のクイックスタート](https://labex.io/ja/courses/quick-start-with-ansible)       | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-ansible)    |
 
 ## その他
 
