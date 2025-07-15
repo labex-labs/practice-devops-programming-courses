@@ -18,8 +18,7 @@ DevOps 正在彻底改变软件开发和 IT 运营模式。这个技能树为掌
 |      4 | [Docker 快速入门](https://labex.io/zh/courses/quick-start-with-docker)         | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)     | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-docker)     |
 |      5 | [Kubernetes 快速入门](https://labex.io/zh/courses/quick-start-with-kubernetes) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-kubernetes) |
 |      6 | [Python 快速入门](https://labex.io/zh/courses/quick-start-with-python)         | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-python)     |
-|      7 | [Jenkins 快速入门](https://labex.io/zh/courses/quick-start-with-jenkins)       | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jenkins)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-jenkins)    |
-|      8 | [Ansible 快速入门](https://labex.io/zh/courses/quick-start-with-ansible)       | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-ansible)    |
+|      7 | [Ansible 快速入门](https://labex.io/zh/courses/quick-start-with-ansible)       | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-ansible)    |
 
 ## 更多
 
