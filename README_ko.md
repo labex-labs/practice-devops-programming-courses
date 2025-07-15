@@ -18,8 +18,7 @@ DevOps 는 소프트웨어 개발과 IT 운영에 혁신을 가져오고 있습�
 |        4 | [Docker 퀵 스타트](https://labex.io/ko/courses/quick-start-with-docker)         | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)     | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-docker)     |
 |        5 | [Kubernetes 퀵 스타트](https://labex.io/ko/courses/quick-start-with-kubernetes) | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-kubernetes) |
 |        6 | [Python 퀵 스타트](https://labex.io/ko/courses/quick-start-with-python)         | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-python)     |
-|        7 | [Jenkins 시작하기](https://labex.io/ko/courses/quick-start-with-jenkins)        | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jenkins)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-jenkins)    |
-|        8 | [Ansible 퀵 스타트](https://labex.io/ko/courses/quick-start-with-ansible)       | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-ansible)    |
+|        7 | [Ansible 퀵 스타트](https://labex.io/ko/courses/quick-start-with-ansible)       | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-ansible)    |
 
 ## 더 보기
 
