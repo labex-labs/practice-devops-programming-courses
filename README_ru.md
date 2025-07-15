@@ -18,8 +18,7 @@ DevOps революционизирует разработку программ�
 |        4 | [Быстрый старт с Docker](https://labex.io/ru/courses/quick-start-with-docker)         | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)     | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-docker)     |
 |        5 | [Быстрый старт с Kubernetes](https://labex.io/ru/courses/quick-start-with-kubernetes) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-kubernetes) |
 |        6 | [Быстрый старт с Python](https://labex.io/ru/courses/quick-start-with-python)         | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-python)     |
-|        7 | [Быстрый старт с Jenkins](https://labex.io/ru/courses/quick-start-with-jenkins)       | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jenkins)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-jenkins)    |
-|        8 | [Быстрый старт с Ansible](https://labex.io/ru/courses/quick-start-with-ansible)       | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-ansible)    |
+|        7 | [Быстрый старт с Ansible](https://labex.io/ru/courses/quick-start-with-ansible)       | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-ansible)    |
 
 ## Больше
 
